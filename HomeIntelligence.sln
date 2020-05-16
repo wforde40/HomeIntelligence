@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeIntelligence", "HomeIntelligence\HomeIntelligence.csproj", "{46618AB8-A017-45A5-9B61-08188310D2ED}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "HomeIntelligenceData", "HomeIntelligenceData\HomeIntelligenceData.sqlproj", "{65165002-BBBD-439D-B107-73F88F515A68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46618AB8-A017-45A5-9B61-08188310D2ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46618AB8-A017-45A5-9B61-08188310D2ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46618AB8-A017-45A5-9B61-08188310D2ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46618AB8-A017-45A5-9B61-08188310D2ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65165002-BBBD-439D-B107-73F88F515A68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65165002-BBBD-439D-B107-73F88F515A68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65165002-BBBD-439D-B107-73F88F515A68}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{65165002-BBBD-439D-B107-73F88F515A68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65165002-BBBD-439D-B107-73F88F515A68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65165002-BBBD-439D-B107-73F88F515A68}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A047832D-D46E-4048-9026-9F181DD262E5}
+	EndGlobalSection
+EndGlobal
